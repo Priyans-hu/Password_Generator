@@ -1,6 +1,6 @@
 let ltr = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLNOPQRSTUVWXYZ";
 let num = "0123456789";
-let sym = "{}|!@#$%^&*()_'<>?/'";
+let sym = `~!@#$%^&*()_+-{|}:"'?><;./,`;
 
 // storing all the checkboxes in different variables
 var ltr_cBox = document.getElementById("ltr-cBox");
